@@ -160,6 +160,4 @@ function authenticate() {
     return; 
   }
   console.log(state.userName, state.password);
-  //route  to home page
-}
-</script>
+
